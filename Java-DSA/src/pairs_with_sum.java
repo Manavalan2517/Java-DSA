@@ -9,6 +9,7 @@ public class pairs_with_sum {
         for (int i=0; i<length; i++){
             for (int j=i+1; j<length; j++){
                 if(lst[i] + lst[j] == val){
+                    System.out.println(lst[i]+" "+lst[j]);
                     count += 1;
                 }
             }
