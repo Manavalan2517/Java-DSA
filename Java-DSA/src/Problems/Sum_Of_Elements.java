@@ -1,4 +1,4 @@
-import java.util.*;
+package Problems;
 
 public class Sum_Of_Elements {
     public static void main(String[] args) {

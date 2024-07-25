@@ -1,4 +1,4 @@
-import java.util.*;
+package Problems;
 
 public class pairs_with_sum {
     public static void main(String[] args) {

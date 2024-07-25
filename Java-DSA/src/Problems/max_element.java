@@ -1,3 +1,5 @@
+package Problems;
+
 public class max_element {
     public static void main(String[] args) {
         int[] lst = {4, 1, 7, 5, 10};
